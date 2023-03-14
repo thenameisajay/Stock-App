@@ -32,4 +32,5 @@ So if you're looking for an easy-to-use and flexible web application for display
     
 ## LICENSE :
  It is an independent project developed solely for learning purposes. It is not affiliated with any company or organization, and was created to improve my own skills and understanding of the framework.
-<p> This project is licensed under the MIT License - see the <code> LICENSE </code> file for details </p>.
+<p> This project is licensed under the MIT License - see the <code> LICENSE </code> file for details. </p>
+
